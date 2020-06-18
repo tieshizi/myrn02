@@ -104,7 +104,7 @@ export default class Home extends React.Component {
                             </View>
                             <View style={styles.box}>
                                 <Image style={{ width: 100, height: 100 }} source={require("../../images/08.jpg")}></Image>
-                                <Text>内容5</Text>
+                                <Text>电影列表</Text>
                             </View>
                             <View style={styles.box}>
                                 <Image style={{ width: 100, height: 100 }} source={require("../../images/09.jpg")}></Image>
