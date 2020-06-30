@@ -8,7 +8,6 @@ import Car from './components/tab/Car.js'
 import Me from './components/tab/Me.js'
 import { Grid, Icon, Button } from '@ant-design/react-native';
 
-
 const styles = StyleSheet.create({
   container: {
     flex: 1
