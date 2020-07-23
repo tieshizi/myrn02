@@ -35,7 +35,7 @@ export default class MovieDetail extends React.Component {
                 <View style={{ justifyContent: 'space-around', alignItems: 'center', breakWord: 'wrap', width: '80%' }}>
                     <Text >名字：{data.title}</Text>
                     <Text >上映时间：{data.pubdate}</Text>
-                    <Text >描述：{data.summary}</Text>
+                    <Text >电影描述：{data.summary}</Text>
                 </View>
             </View>
         </ScrollView >
